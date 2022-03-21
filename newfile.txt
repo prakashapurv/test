@@ -1,2 +1,4 @@
 echo "This is a test Git"
 echo "This is modified from CLI"
+=======
+echo "Testing the Rebase from CLI"
