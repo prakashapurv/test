@@ -1,1 +1,2 @@
 echo "This is modified from branch Test and can be merged"
+echo "Testing Rebase from GUI"
