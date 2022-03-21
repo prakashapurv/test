@@ -1,6 +1,1 @@
 echo "This is a test Git"
-<<<<<<< HEAD
-echo "This is modified from the local Repo"
-=======
-echo "This is edited from github GUI"
->>>>>>> 8b64869fadc1a5201813a1b61b86d7ec645d8f9a
