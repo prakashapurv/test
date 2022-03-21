@@ -1,1 +1,2 @@
 echo "This is modified from branch Test and can be merged"
+echo "This is modified from GUI"
