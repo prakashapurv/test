@@ -1,1 +1,2 @@
 echo "This is a test Git"
+echo "This is edited from github GUI"
