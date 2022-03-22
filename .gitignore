@@ -1,2 +1,8 @@
 patGit
+<<<<<<< HEAD
+nexus.pem
+Docker_Project
+
+=======
 Docker_Project/*
+>>>>>>> feature/database

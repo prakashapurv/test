@@ -1,4 +1,6 @@
 echo "This is modified from branch Test and can be merged"
+echo "This is modified from GUI"
+=======
 echo "Testing Rebase from GUI"
 echo "Testing git stash command'git stash"  ## USed for unfinished changes which we dont want to commit
 ## Error it throws if you dont move the files to staging area or if you dont commit
@@ -25,3 +27,4 @@ echo "git commit --amend"
 ##This command creates a new commit that undoes the changes from a previous commit. 
 ##This command adds new history to the project (it doesn't modify existing history)
 git revert
+echo "git checkout commit#"
