@@ -10,6 +10,7 @@ echo "Testing git stash command'git stash"  ## USed for unfinished changes which
 
 
 ### To checkout a particular commit to return back to old state
+###This command checks-out content from the repository and puts it in your work tree.
 echo "git checkout commit#"
 
 
@@ -20,3 +21,7 @@ echo "git reset --soft HEAD~1" ## to reset the commit one below but changes done
 
 ##to Amend the last commit message 
 echo "git commit --amend"
+
+##This command creates a new commit that undoes the changes from a previous commit. 
+##This command adds new history to the project (it doesn't modify existing history)
+git revert
